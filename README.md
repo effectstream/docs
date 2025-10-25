@@ -1,1 +1,4 @@
-# paima-v-next-docs
+```
+deno install --allow-scripts
+deno task start
+```
