@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_effectstream_docs=globalThis.webpackChunk_effectstream_docs||[]).push([[7472],{55513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to the EffectStream Blog","permalink":"/docs/blog/welcome","unlisted":false,"date":"2026-04-28T00:00:00.000Z"}]}')}}]);

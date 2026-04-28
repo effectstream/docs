@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://effectstream.github.io/docs/ja/blog</id>
+    <title>EffectStream Blog</title>
+    <updated>2026-04-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://effectstream.github.io/docs/ja/blog"/>
+    <subtitle>EffectStream Blog</subtitle>
+    <icon>https://effectstream.github.io/docs/ja/img/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to the EffectStream Blog]]></title>
+        <id>https://effectstream.github.io/docs/ja/blog/welcome</id>
+        <link href="https://effectstream.github.io/docs/ja/blog/welcome"/>
+        <updated>2026-04-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the EffectStream blog. Stay tuned for updates, guides, and announcements.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the EffectStream blog. Stay tuned for updates, guides, and announcements.</p>]]></content>
+        <author>
+            <name>EffectStream</name>
+            <uri>https://github.com/PaimaStudios</uri>
+        </author>
+        <category label="effectstream" term="effectstream"/>
+    </entry>
+</feed>

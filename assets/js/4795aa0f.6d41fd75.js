@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_effectstream_docs=globalThis.webpackChunk_effectstream_docs||[]).push([[3978],{63937(e){e.exports=JSON.parse('{"authors":[{"name":"EffectStream","url":"https://github.com/PaimaStudios","key":"effectstream","page":null,"count":1}]}')}}]);
